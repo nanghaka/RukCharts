@@ -5,6 +5,9 @@ include 'db_connect.php';
 <html>
 <head>
 	<title> Users</title>
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+
 </head>
 <body>
 <h3>Number of Users Registered </h3>
